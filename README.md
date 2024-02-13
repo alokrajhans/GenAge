@@ -1,4 +1,4 @@
-# GenAge: The Gender and Age Prediction 
+# GenAge: The Gender and Age Prediction Platform
 
 # Dataset Information
 
