@@ -1,6 +1,4 @@
-# Gender and Age Prediction - Image Classification - CNN
-
-**Complete Video Tutorial:** https://youtu.be/vEJzsGXrB70
+# GenAge: The Gender and Age Prediction 
 
 # Dataset Information
 
@@ -8,9 +6,9 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
 
 The objective of the project is to detect gender and age using facial images. Convolutional Neural Network is used to classify the images. There are 2 output types namely, gender(M or F) and age.
 
-**Download link:** https://www.kaggle.com/datasets/jangedoo/utkface-new
+Dataset link: https://www.kaggle.com/datasets/jangedoo/utkface-new
 
-**Environment:** kaggle
+Used the **KAGGLE** enviroment.
 
 # Libraries
 
